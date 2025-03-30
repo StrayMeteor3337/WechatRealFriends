@@ -1,3 +1,5 @@
+## 暂时停止更新，具体请看issues置顶，讨论请到discussiom
+
 [简体中文](README.md) | [English](README_EN.md)
 
 ### WechatRealFriends
