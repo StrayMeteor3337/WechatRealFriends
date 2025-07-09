@@ -1,5 +1,8 @@
 ## 暂时停止更新，具体请看issues置顶，讨论请到discussiom
 
+>[!WARNING]
+>这个官网是假的,别信:wechatrealfriends.github.io
+
 [简体中文](README.md) | [English](README_EN.md)
 
 ### WechatRealFriends(半开源)
