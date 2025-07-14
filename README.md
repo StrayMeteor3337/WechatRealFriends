@@ -1,11 +1,21 @@
-## 暂时停止更新，具体请看issues置顶，讨论请到discussiom
+## WechatRealFriends已失效,请使用新项目WeFriends
 
->[!WARNING]
->这个官网是假的,别信:wechatrealfriends.github.io
+WeFriends仓库: https://github.com/StrayMeteor3337/WeFriends
+
+WeFriends可以一键检测好友关系,自动标记异常好友,自动管理微信客户端
+
+相比WechatRealFriends, WeFriends有以下优势:
+1. 不会出现无法登录或者弹验证的问题
+2. 支持微信国际版(Wechat)
+3. 基于hook,封号概率更低
+
+
+----
 
 [简体中文](README.md) | [English](README_EN.md)
 
 ### WechatRealFriends(半开源)
+
 ----
 
 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
